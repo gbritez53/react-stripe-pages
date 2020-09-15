@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-stripe-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-stripe-pages/static/js/main.fc7dfa58.chunk.js",
+    "main.js.map": "/react-stripe-pages/static/js/main.fc7dfa58.chunk.js.map",
+    "runtime-main.js": "/react-stripe-pages/static/js/runtime-main.f0f396ff.js",
+    "runtime-main.js.map": "/react-stripe-pages/static/js/runtime-main.f0f396ff.js.map",
+    "static/js/2.4522203e.chunk.js": "/react-stripe-pages/static/js/2.4522203e.chunk.js",
+    "static/js/2.4522203e.chunk.js.map": "/react-stripe-pages/static/js/2.4522203e.chunk.js.map",
+    "index.html": "/react-stripe-pages/index.html",
+    "precache-manifest.5debbca63286d850af2deb0ed9b998a3.js": "/react-stripe-pages/precache-manifest.5debbca63286d850af2deb0ed9b998a3.js",
+    "service-worker.js": "/react-stripe-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-stripe-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4522203e.chunk.js.LICENSE.txt": "/react-stripe-pages/static/js/2.4522203e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-stripe-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0f396ff.js",
+    "static/js/2.4522203e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fc7dfa58.chunk.js"
+  ]
+}
