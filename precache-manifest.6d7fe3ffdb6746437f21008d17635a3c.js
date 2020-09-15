@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ef02365dca8a070af59e4e021f9d91c",
+    "revision": "a8a96cc5d2d9e40b1664138f98e76fb3",
     "url": "/react-stripe-pages/index.html"
   },
   {
-    "revision": "3c979a18a6fd2c1efe3c",
+    "revision": "d318f06a517004564785",
     "url": "/react-stripe-pages/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-stripe-pages/static/js/2.4522203e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c979a18a6fd2c1efe3c",
-    "url": "/react-stripe-pages/static/js/main.fc7dfa58.chunk.js"
+    "revision": "d318f06a517004564785",
+    "url": "/react-stripe-pages/static/js/main.8133986a.chunk.js"
   },
   {
     "revision": "5b1607631aaa911ee462",
